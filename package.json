@@ -12,6 +12,7 @@
   "author": "xiao",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^8.4.0"
+    "hapi": "^8.4.0",
+    "hapi-mongodb": "^3.0.0"
   }
 }
